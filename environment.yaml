@@ -224,5 +224,3 @@ dependencies:
     - pyqt5-sip==4.19.18
     - pyqtwebengine==5.12.1
     - s2sphere==0.2.5
-prefix: /home/egraells/miniconda3/envs/iotwins_foursquare
-
